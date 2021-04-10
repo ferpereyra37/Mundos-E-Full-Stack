@@ -1,0 +1,119 @@
+ul {
+    padding-left: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.container {
+    margin-left: 101px;
+    margin-right: 101px;
+}
+
+.nav-ul {
+    list-style: none;
+    padding: 0px;
+}
+
+.nav-ul li {
+    margin-right: 57px;
+    margin-top: 38px;
+    margin-bottom: 37px;
+    color: white;
+    margin-top: 38px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+.h1header {
+    margin-top: 158px;
+    margin-left: 101px;
+    margin-right: 711px;
+    margin-bottom: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    color: white;
+    line-height: 50px;
+    width: 554px;
+}
+
+.h2header {
+    margin-top: 30px;
+    margin-left: 101px;
+    margin-right: 922px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: white;
+    line-height: 21px; 
+    padding: 0px;
+}
+
+.cont-header {
+    background-image: url("../imgs/slider-1.png");
+    height: 768px;
+    width: 1366px;
+}
+
+.logo {
+    margin-top: 33px;
+    margin-bottom: 33px;
+    margin-left: 100,33px;
+}
+
+.readmore {
+    text-decoration: none;
+    color: white;
+    margin-left: 101px;
+    margin-top: 39px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    background-color: #E0752F;
+    border-radius: 25px;
+    height: 48px;
+    width: 144px;
+    border: none;
+    padding: 0px;
+}
+
+.cont-section1{
+    height: 672px;
+    width: 1366px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-left: 32px solid #E0752F;
+    
+}
+
+.h1section1 {
+    color: black;
+    margin-left: 299px;
+    margin-top: 167px;
+    margin-right: 665px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 39px;
+    text-align: left;
+    line-height: 45px;
+}
+
+.textonaranja {
+    color: #E0752F;
+}
+
+.h2section1 {
+    color: #343434;
+    margin-left: 299px;
+    margin-top: 44px;
+    margin-right: 299px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    text-align: left;
+    line-height: 28px;
+}
