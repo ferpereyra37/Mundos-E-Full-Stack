@@ -84,17 +84,16 @@ a {
 
 .cont-section1{
     height: 672px;
-    width: 1366px;
+    width: 1334px;
     display: flex;
     flex-direction: column;
     background-color: white;
     border-left: 32px solid #E0752F;
-    
 }
 
 .h1section1 {
     color: black;
-    margin-left: 299px;
+    margin-left: 267px;
     margin-top: 167px;
     margin-right: 665px;
     font-family: 'Poppins', sans-serif;
@@ -109,11 +108,72 @@ a {
 
 .h2section1 {
     color: #343434;
-    margin-left: 299px;
+    margin-left: 267px;
     margin-top: 44px;
     margin-right: 299px;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     text-align: left;
     line-height: 28px;
+}
+
+.cont-section2 {
+    height: 768px;
+    width: 968px;
+    background-color: #F2F4F1;
+    display: table-cell;
+    flex-direction: column;
+    border-right: 398px solid #DCE1DA;
+}
+
+.imgsection2 {
+    height: 552px;
+    width: 966px;
+    margin: 112px 200px 104px 200px;
+    height: 552px;
+    width: 966px;
+    position: absolute;
+}
+
+.cont-text {
+    height: 304px;
+    width: 471px;
+    position: absolute;
+    background-color: #E0752F;
+    margin: 360px 304px 104px 695px;
+}
+
+.text1Section2 {
+    color: #FFFFFF;
+    margin: 68px 284px 0px 50px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    text-align: left;
+    line-height: 21px;
+}
+
+.text2Section2 {
+        color: #FFFFFF;
+        margin: 0px 192px 19.5px 50px;
+        font-family: 'Poppins', sans-serif;
+        font-size: 39px;
+        text-align: left;
+        line-height: 59px;
+}
+
+.text3Section2 {
+    color: #FFFFFF;
+    margin: 19.5px 49px 32.5px 50px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    text-align: left;
+    line-height: 21px;
+    letter-spacing: 0.22px;
+} 
+.flechaizquierda{
+    margin: 0px 0px 31px 371.3px;
+}
+
+.flechaderecha{
+    margin: 0px 20px 31px 10.4px;
 }
